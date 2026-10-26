@@ -1,0 +1,7 @@
+region,analysis,version,r,p_adj
+Guinea coast 4-10N,JJA interannual,raw,0.666,0.0
+Guinea coast 4-10N,JJA interannual,detrended,0.722,0.0
+Guinea coast 4-10N,monthly anomalies lag 0,raw,0.147,0.0063
+Sahel 10-20N,JJA interannual,raw,0.175,0.3112
+Sahel 10-20N,JJA interannual,detrended,0.047,0.7887
+Sahel 10-20N,monthly anomalies lag 0,raw,0.034,0.6134

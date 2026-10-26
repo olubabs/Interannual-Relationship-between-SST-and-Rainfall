@@ -1,0 +1,11 @@
+variable,scale,cells,pct_raw_p05,pct_after_FDR,expected_false_by_chance_pct
+SST (K),Annual,8705,90.0,95.2,5.0
+SST (K),JJA,8705,34.4,0.0,5.0
+MSLP (Pa),Annual,20413,0.0,0.0,5.0
+MSLP (Pa),JJA,20413,11.7,0.0,5.0
+u850 (m/s),Annual,20413,26.6,17.7,5.0
+u850 (m/s),JJA,20413,27.5,19.6,5.0
+v850 (m/s),Annual,20413,5.9,0.0,5.0
+v850 (m/s),JJA,20413,10.6,0.0,5.0
+q850 (kg/kg),Annual,20413,35.5,28.0,5.0
+q850 (kg/kg),JJA,20413,24.9,20.4,5.0

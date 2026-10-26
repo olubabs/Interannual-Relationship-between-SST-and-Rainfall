@@ -1,0 +1,11 @@
+variable,scale,pct_raw,pct_FDR
+SST (K),Annual,78.4,90.4
+SST (K),JJA,78.5,88.7
+MSLP (Pa),Annual,13.5,0.0
+MSLP (Pa),JJA,76.5,81.9
+u850 (m/s),Annual,21.6,12.8
+u850 (m/s),JJA,21.6,0.0
+v850 (m/s),Annual,8.1,0.0
+v850 (m/s),JJA,27.3,20.8
+q850 (kg/kg),Annual,28.3,20.3
+q850 (kg/kg),JJA,27.7,13.7

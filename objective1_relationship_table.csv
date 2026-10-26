@@ -1,0 +1,15 @@
+analysis,r,n,n_eff,p_adj
+Raw monthly series (seasonal cycle included),-0.732,420,78.2,2.4636548367024323e-14
+Climatological annual cycle (12 monthly means),-0.776,12,12.0,0.003034831356560094
+"Deseasonalised monthly anomalies, lag 0",0.1,420,280.2,0.09530840583539346
+  ... and linearly detrended,0.051,420,290.3,0.3896112042728566
+"Seasonal-mean DJF-ish dry (Dec-Feb), interannual",-0.047,34,35.0,0.7902038762995002
+"   DJF-ish dry (Dec-Feb), interannual, detrended",-0.104,34,34.0,0.5595029082306274
+"Seasonal-mean MAM, interannual",-0.142,35,34.2,0.42019145553649995
+"   MAM, interannual, detrended",-0.027,35,35.0,0.8794603280606429
+"Seasonal-mean JJA monsoon, interannual",0.521,35,34.4,0.0014704449788880483
+"   JJA monsoon, interannual, detrended",0.465,35,34.9,0.004974287317813565
+"Seasonal-mean SON, interannual",0.399,35,33.0,0.021461003430780373
+"   SON, interannual, detrended",0.232,35,35.4,0.17837844077900614
+"Annual means, interannual",0.555,35,38.9,0.00024873688587064696
+"   Annual, detrended",0.446,35,38.3,0.004867915062145082
